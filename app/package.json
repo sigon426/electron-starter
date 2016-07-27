@@ -1,0 +1,14 @@
+{
+  "name": "electron-starter",
+  "main": "main.js",
+  "version": "0.0.1",
+  "description": "Electron starter app",
+  "productName": "electron-starter",
+  "homepage": "https://github.com/sigon426/electron-starter.git",
+  "license": "MIT",
+  "author": {
+      "name": "sigon",
+      "email": "sigon426@users.noreply.github.com"
+      }
+
+}
